@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Salsa-Regular;
+  src: url("../fonts/Salsa-Regular.ttf");
+}
+* {
+  font-family: Salsa-Regular !important;
+}
+
+ 
+@media(max-width:992px){
+  .col-lg-6{
+    width: 100%;
+  }
+}
