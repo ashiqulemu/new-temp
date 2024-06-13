@@ -1,15 +1,13 @@
-@charset "UTF-8";
 @font-face {
-  font-family: Salsa-Regular;
-  src: url("../fonts/Salsa-Regular.ttf");
+  font-family: Cinzel-VariableFont_wght;
+  src: url("../fonts/Cinzel-VariableFont_wght.ttf");
 }
 * {
-  font-family: Salsa-Regular !important;
+  font-family: Cinzel-VariableFont_wght !important;
 }
 
- 
-@media(max-width:992px){
-  .col-lg-6{
+@media (max-width: 992px) {
+  .col-lg-6 {
     width: 100%;
   }
-}
+}/*# sourceMappingURL=app.css.map */
